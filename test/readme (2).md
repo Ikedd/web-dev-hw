@@ -4,4 +4,4 @@
 
 My [Course notes](./notes.txt)
 
-![Image of My Atom Editor](/test/images/screenshot.png)
+![Image of My Atom Editor](./test/images/screenshot.png)
