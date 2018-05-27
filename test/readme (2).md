@@ -3,3 +3,5 @@
 ## This is a new line
 
 My [Course notes](./notes.txt)
+
+![Image of My Atom Editor](./images/screenshot.png)
