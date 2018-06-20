@@ -1,20 +1,13 @@
 <h2>Eric Brown</h2>
+The Div element divides code in blocks.</br >
+The id element identifies is a unique identifier to a certain element.</br >
+The class attribute is a identifier and selector for HTML elements.</br >
+The span element applies a certain style to a specific text.
 
-<p>You can only have one pair of the head and body tags because it is what the browser see's.</br >
-The head element is a container for processing information and document metadata.</br >
-The body element is a container for all of the content and data that is intended to be displayed on a browser’s page.</p>
+Third party hosting seems more financially sound compared to web hosting companies because of the bandwidth of videos.
 
+Overall this assignment was a little hard with the audio and video code, but when I got it. It was rewarding to see it work. I'm still a little foggy on the using a second class but I will look into it further.
 
-Structural markup embeds information about the structure of a document. Structure includes elements such as:
-    Headings
-    Paragraphs
-    Breaks
-    Lists
-
-Semantic markup is used to place emphasis on words or phrases in a document.
-
-This assignment was challanging and rewarding at the same time. Using the different elements and see
-how the web page starts to form.
-
-![Assignment 3 Screenshot](./images/screenshot1.JPG)
-![Assignment 3 Screenshot](./images/screenshot2.JPG)
+![Assignment 5 Screenshot](./images/screenshot1.JPG)
+![Assignment 5 Screenshot](./images/screenshot2.JPG)
+![Assignment 5 Screenshot](./images/screenshot3.JPG)
