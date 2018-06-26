@@ -1,7 +1,0 @@
-# Responses
-- Through binary and TCP
-- The IP address is the devices identification and the DNS is the name of what the device<br>
-  is searching for such as www.google.com
-- A cookie is like an ID card for your browser so when you log in to the website it's already<br>
-  familiar with you.
-- Protocol, Domain, Path.
