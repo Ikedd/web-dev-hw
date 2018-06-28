@@ -1,0 +1,85 @@
+
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+ /*@import url('https://fonts.googleapis.com/css?family=Indie+Flower');*/
+
+* {
+font-family: 'Dancing Script', italic;
+}
+
+* {
+  font-family: 'Dancing Script', italic;
+}
+body {
+  background-color: rgb(0, 147, 138);
+}
+p, a {
+  margin-bottom: 2.5em;
+  text-decoration: none;
+  color: rgb(255,255,255);
+}
+
+
+/* Text Backround Color */
+.text-container {
+  background-color: #teal;
+  padding: 4em;
+  margin: 3em;
+}
+
+
+/* Title Content*/
+#title {
+  text-align: center;
+  margin-bottom: 5em;
+}
+#title h1 {
+  font-size: 3em;
+  letter-spacing: 3px;
+  margin-bottom: 0em;
+  color: rgb(11, 44, 126);
+}
+#title h1::first-letter {
+  font-size: 2.5em;
+  vertical-align: middle;
+}
+#title h2 {
+  text-transform: uppercas;
+  font-size: 1.4em;
+  margin-top: -3em;
+  color: rgb(147, 12, 76);
+}
+#title p {
+  font-style: italic;
+  letter-spacing: 5px;
+  font-size: 1.5em;
+}
+
+/* Paragraph Content */
+.content {
+  font-size: 1.25em;
+  text-indent: 1.5em;
+  line-height: 1.25em;
+  font-weight: 400;
+  color: rgb(255,255,255);
+}
+
+
+
+
+/* "Read More!" Button*/
+.button p {
+  font-size: 4em;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.button:hover {
+  background-image: url('../images/sparkles.png');
+  background-size: 40px 40px;
+  background-repeat: no-repeat;
+}
+.button:active {
+  background-color: rgb(6,26,75);
+  border-color: #383636 #8f8b8b #8f8b8b #383636;
+  border-width: 10px 6px 6px 10px;
+}
