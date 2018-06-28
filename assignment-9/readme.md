@@ -12,6 +12,5 @@ of html code and how to make things work, and I look forward to taking the class
 
 d.) This assignment was fun and I enjoyed seeing how everything came together but I definitely need more practice but really enjoyed these assignments.
 
-e.) ![Assignment 7 Screenshot](./images/about-screenshot.JPG)
-f.)![Assignment 7 Screenshot](./images/contact-screenshot.JPG)
-g.)![Assignment 7 Screenshot](./images/index-screenshot.JPG)
+e.) ![Assignment 7 Screenshot](./images/screenshot1.JPG)
+f.)![Assignment 7 Screenshot](./images/screenshot2.JPG)
