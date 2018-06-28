@@ -19,7 +19,7 @@ p, a {
 }
 
 
-/* Text Backround Color */
+/* Text Color */
 .text-container {
   background-color: #teal;
   padding: 4em;
@@ -64,9 +64,7 @@ p, a {
 }
 
 
-
-
-/* "Read More!" Button*/
+/* "Read More" Button*/
 .button p {
   font-size: 4em;
   text-align: center;
